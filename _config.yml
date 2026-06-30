@@ -24,20 +24,21 @@ author:
   # Biographic information
   avatar           : "Krückl_Xaver_17113-1.jpg"
   name             : "Xaver Maria Krückl"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "he/him"  
+  bio              : "PhD Student in NLP for low-resource scenarios, interested in Narrativity and AI."
   location         : "Munich & Augsburg, Germany"
   employer         : "University of Augsburg"
   uri              : # URL
   email            : "xaver.krueckl@uni-a.de" 
 
-  # Academic websites
+  # Academic websites Update with the correct link to your profile
+  acl              : "https://aclanthology.org/people/xaver-maria-kruckl/"
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL
+  googlescholar    : # URL 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0002-5619-8143"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -65,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : xaver-krueckl-5b0173260
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
