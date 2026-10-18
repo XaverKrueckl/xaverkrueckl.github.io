@@ -58,12 +58,6 @@ Languages
 * Spanish (B1/B1+)
 * Latin (advanced certificate)
 
-Conferences & Summer Schools
-======
-* **LxMLS 2026** — Lisbon Machine Learning Summer School, Lisbon, Portugal
-  * Selected participant (~150 accepted from 800+ applicants)
-  * *Add your notes here — what you learned, who you met, highlights.*
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -76,3 +70,10 @@ Conferences & Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Academic Activities
+======
+* **LxMLS 2026** — 16th Lisbon Machine Learning Summer School, Instituto Superior Técnico, Lisbon, Portugal (20–25 July 2026)
+  * One week of full focus on the whole machine learning landscape (2 morning lectures and afternoon lab sessions) as well as cutting-edge research talks
+  * Topics: Machine Learning Fundamentals, Linear Models, Deep Learning, Sequence Models, Transformers, Causality, and Vision & Language
+  * Instructors & speakers: Mário Figueiredo, Bhiksha Raj, Noah Smith, André Martins, Adèle H. Ribeiro, and Desmond Elliott; invited talks by Leon Bottou, Eric Xing and Raquel Fernandez
+  * Exchanging ideas and visions with other PhD students and early-career researchers from across Europe and beyond in one of Europe's most vibrant cities
