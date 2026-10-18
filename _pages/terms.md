@@ -1,39 +1,56 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+permalink: /impressum/
+title: "Impressum & Datenschutz"
 ---
 
-{% include base_path %}
-{% include toc %}
+## Impressum
 
-## Privacy Policy
+Angaben gemäß § 5 TMG:
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+**Xaver Maria Krückl**  
+E-Mail: xaver.krueckl@uni-a.de
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+Universität Augsburg  
+Lehrstuhl für Computerlinguistik  
+Universitätsstraße 2  
+86159 Augsburg
 
-### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+---
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+## Datenschutzerklärung
 
-All of this information is not linked to anything that is personally identifiable.
+### Verantwortlicher
 
-### Cookies and Web Beacons
+Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](https://disqus.com) the next time you leave a comment.
+Xaver Maria Krückl  
+E-Mail: xaver.krueckl@uni-a.de
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+Universität Augsburg  
+Lehrstuhl für Computerlinguistik  
+Universitätsstraße 2  
+86159 Augsburg  
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
-#### Google Analytics
+### Hosting
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](https://www.google.com/analytics/learn/privacy.html).
+Diese Website wird über GitHub Pages (GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA) gehostet. Beim Aufruf der Website werden durch GitHub technische Zugriffsdaten (u.a. IP-Adresse, Zeitpunkt des Zugriffs) in Server-Logfiles gespeichert. Dies liegt außerhalb meines Einflussbereichs. Weitere Informationen finden sich in der [Datenschutzerklärung von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Webanalyse mit Google Analytics
+
+Diese Website verwendet Google Analytics 4, einen Webanalysedienst der Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland). Google Analytics verwendet Cookies und ähnliche Technologien, um das Nutzungsverhalten auf dieser Website zu analysieren.
+
+Die dabei erhobenen Daten (u.a. aufgerufene Seiten, Verweildauer, ungefährer Standort, Gerät und Browser) werden an Server von Google übertragen und dort verarbeitet. IP-Adressen werden von Google anonymisiert. Die Daten werden nicht dazu verwendet, Besucher persönlich zu identifizieren.
+
+Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Analyse und Verbesserung des Webangebots).
+
+Sie können der Datenverarbeitung durch Google Analytics widersprechen, indem Sie das [Google Analytics Opt-out-Browser-Add-on](https://tools.google.com/dlpage/gaoptout) installieren.
+
+Weitere Informationen finden sich in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
+
+### Ihre Rechte
+
+Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten sowie das Recht auf Datenübertragbarkeit. Zudem steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu (in Bayern: Bayerisches Landesamt für Datenschutzaufsicht, www.lda.bayern.de).
+
+Für Anfragen wenden Sie sich bitte an: xaver.krueckl@uni-a.de

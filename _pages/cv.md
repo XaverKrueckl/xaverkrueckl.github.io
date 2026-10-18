@@ -40,7 +40,7 @@ Work Experience
 * **February 2023 – September 2024: Working Student — Data Science & Chatbot Product Management**
   * CHECK24 Vergleichsportal
   * Maintenance, revision & extension of a chat tree
-  * Training & deploying chat intent classifiers
+  * Improving & training chat intent classifiers
   * Introducing & prompting generative LLM chat answers
 
 Research Interests
@@ -57,6 +57,11 @@ Languages
 * English (B2+/C1)
 * Spanish (B1/B1+)
 * Latin (advanced certificate)
+
+Teaching
+======
+* **Natural Language Understanding** — Seminar, University of Augsburg (since 2026)
+* **Introduction to Python** — Tutorial/course for beginners, University of Augsburg (since 2026)
 
 Publications
 ======

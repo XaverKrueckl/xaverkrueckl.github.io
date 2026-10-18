@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and research assistant at the Chair of Computational Linguistics at the University of Augsburg, supervised by Prof. Annemarie Friedrich. My research focuses on natural language processing in low-resource settings, with a particular interest in understanding human vs. AI generated narration and improving NLP systems and generative AI-powered applications in this regard.
+Hi! I'm Xaver, a first year PhD student and research assistant at the Chair of Computational Linguistics at the University of Augsburg, supervised by Prof. Annemarie Friedrich. My research is broadly based on natural language processing in low-resource settings, building up a particular interest in understanding human vs. AI generated narration and improving NLP systems and generative AI-powered applications in this regard.
 
-Before joining academia full-time, I worked as a Junior Data Scientist at CHECK24, where I improved and participated in the development of RAG-based chatbot and mailbot systems, agentic LLM frameworks for automated customer service, and generative AI components into production dialogue pipelines.
+Before starting my PhD and directly after my Masters, I worked as a Junior Data Scientist at CHECK24 for one and a half years, where I improved and participated in the development of RAG-based chatbot and mailbot systems, agentic LLM frameworks for automated customer service, and generative AI components into production dialogue pipelines. 
 
 Research Interests
 ======
 
-My work sits at the intersection of low-resource NLP, language generation systems, and narrativity. I am broadly interested in:
+My academic interests sit at the intersection of low-resource NLP, language generation systems, and narrativity. I am broadly working on:
 
 - **Low-resource NLP** — robust models for languages and varieties with limited training data
 - **Narrative detection, fact checking & misinformation detection** — a new approach to linguistic operationalisation of narrativity as a possible detection signal for misleading content; understanding how information is framed and verified in text
