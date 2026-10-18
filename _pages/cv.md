@@ -58,9 +58,21 @@ Languages
 * Spanish (B1/B1+)
 * Latin (advanced certificate)
 
+Conferences & Summer Schools
+======
+* **LxMLS 2026** — Lisbon Machine Learning Summer School, Lisbon, Portugal
+  * Selected participant (~150 accepted from 800+ applicants)
+  * *Add your notes here — what you learned, who you met, highlights.*
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Conferences & Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
