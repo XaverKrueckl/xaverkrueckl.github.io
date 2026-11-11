@@ -31,3 +31,8 @@ Background
 ======
 
 I hold an M.Sc. in Computational Linguistics (grade 1.11) and a B.Sc. in Computational Linguistics (grade 1.58), both from Ludwig-Maximilians-University Munich, as well as a B.A. in English Studies. My master's thesis in computational linguistics investigated multiple zero-shot transfer learning methods for slot and intent detection in Upper German dialects whilst my bachelor's thesis focused on creating a multilingual gold standard for case marker extraction.
+
+Selected Readings
+======
+
+- [Weaponized storytelling: How AI is helping researchers sniff out disinformation campaigns](https://theconversation.com/weaponized-storytelling-how-ai-is-helping-researchers-sniff-out-disinformation-campaigns-251349) — Mark Finlayson & Azwad Anjum Islam, *The Conversation*, May 2025. This article nicely depicts the importance of reliably detecting narrative passages and narratives in online campaigns that are increasingly used to deliberately place disinformation and shows on a concrete example why more research in this area is highly necessary.
